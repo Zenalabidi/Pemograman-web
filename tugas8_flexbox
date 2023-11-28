@@ -27,3 +27,49 @@
 </div>
 </body>
 </html>
+
+.box1 {
+    background: gold;
+    width: 1050px;
+    height: 70px;
+    margin: auto;
+    margin-top: 20px;
+ }
+
+ .box2 {
+    background: green;
+    width: 300px;
+    height: 475px;
+    margin: 25px;
+ }
+
+ .box3 {
+    background: pink;
+    width: 725px;
+    height: 475px;
+    margin-top: 25px;
+ }
+
+ .box4 {
+    background: palevioletred;
+    width: 1050px;
+    height: 70px;
+    margin: auto;
+    margin-bottom: 20px;
+ }
+
+ img {
+    width: 200px;
+    height: 170px;
+    margin: auto;
+    margin-bottom: 25px;
+}
+
+.box1 h2,
+.box4 h2,
+.box2 h1 {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-style: italic;
+    color: white;
+    text-shadow: 2px 2px 2px black;
+}
